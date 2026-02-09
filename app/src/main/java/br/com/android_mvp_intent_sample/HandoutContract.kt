@@ -7,6 +7,6 @@ interface HandoutContract {
     }
 
     interface Presenter {
-        fun onOpenHandoutClicked(model: )
+        fun onOpenHandoutClicked(model: HandOutModel)
     }
 }
