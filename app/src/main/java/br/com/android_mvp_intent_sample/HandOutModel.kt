@@ -2,5 +2,5 @@ package br.com.android_mvp_intent_sample
 
 data class HandOutModel(
     val code: String,
-    val showRetention: Boolean
+    val showAttribute: Boolean
 )
