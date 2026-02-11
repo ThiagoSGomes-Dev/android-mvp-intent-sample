@@ -14,3 +14,8 @@ enviar um Broadcast
 pedir que outro app execute algo. ```ex: abrir câmera, compartilhar texto```
 
 <img width="820" height="326" alt="Screenshot_169" src="https://github.com/user-attachments/assets/df386fb2-9c8d-4756-862b-6e4cde0b220c" />
+
+- [Doc Intent](https://developer.android.com/reference/android/content/Intent)
+- [Doc Intent Filters](https://developer.android.com/guide/components/intents-filters)
+- [Doc Bundle](https://developer.android.com/reference/android/os/Bundle)
+- [Doc Parcelables e Bundles](https://developer.android.com/guide/components/activities/parcelables-and-bundles)
